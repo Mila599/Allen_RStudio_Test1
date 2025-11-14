@@ -9,7 +9,7 @@ plot(x, y,
      xlab = "x 轴",
      ylab = "y 轴",
      col = "blue",
-     lwd = 2)
+     lwd = 3)
 grid()
 
 dev.off()  # 这行很重要，关闭图形设备并保存文件
